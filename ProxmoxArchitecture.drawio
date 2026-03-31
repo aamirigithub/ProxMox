@@ -7,6 +7,12 @@
         <mxCell id="M4hgUu3A06lrBwLGqA36-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="vLAN" vertex="1">
           <mxGeometry height="10" width="350" x="50" y="70" as="geometry" />
         </mxCell>
+        <mxCell id="mzcQKX6BviWHONCFqnmX-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="60" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mzcQKX6BviWHONCFqnmX-2" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="60" x="195" y="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
